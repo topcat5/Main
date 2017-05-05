@@ -1,3 +1,3 @@
-<H1>Main</H1>
+Main
 
 This is a test sandbox. Have fun.
